@@ -1,1 +1,1 @@
-this is a test file
+i am committing and pushing from my terminal
